@@ -9,6 +9,7 @@ While OSINTkoSCR was initially designed for the OSINTko Kali ISO, it is flexible
 - [Features](#features)
 - [Installation](#installation)
 - [Tools](#tools)
+- [Notes](#notes)
 
 ---
 
@@ -61,8 +62,11 @@ The following tools are included:
 - [Osgint](https://github.com/hippiiee/osgint)
 - [Toutatis](https://github.com/megadose/toutatis)
 
+## Notes
 
+- Desktop Directories: For the .desktop entries to work effectively, ensure you have a desktop-directories structure created. This is typically pre-configured in environments like XFCE but may require additional setup on others.
 
+- Customization: OSINTkoSCR is a flexible, universal script that can be modified to add additional tools by including them in the script’s tool arrays. Users are encouraged to add their own OSINT tools and categories as desired.
 
 
 
