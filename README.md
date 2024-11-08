@@ -19,12 +19,12 @@ While OSINTkoSCR was initially designed for the OSINTko Kali ISO, it is flexible
 - **Pipx Support**: Installs and configures pipx tools, providing system-wide executables for selected OSINT utilities.
 
 ## Installation
-To set up OSINThub, follow these steps:
+To set up OSINTkoSCR, follow these steps:
 
 1. **Clone the Repository and run the script**:
    ```bash
    git clone https://github.com/LinaYorda/osintkoSCR.git
-   cd OSINThub
+   cd osintkoSCR
    bash ./osintkoSCR.sh
 
 ## Tools
